@@ -1,0 +1,8 @@
+__pycache__
+output
+srv.pid
+themes
+plugins
+pelican.pid
+*.pyc
+.gitmodules
